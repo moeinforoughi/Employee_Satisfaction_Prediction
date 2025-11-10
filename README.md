@@ -1,7 +1,3 @@
-
-```text
-# COPY-PASTE VERSION (README.md)
-
 # Employee Satisfaction Prediction
 
 ![Project Screenshot](./screenshot.png)
